@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.log
+localstore.db-wal
+localstore.db-shm
+.env
